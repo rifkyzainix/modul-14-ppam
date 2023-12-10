@@ -13,5 +13,5 @@
 - Run app :
 ```npm run start```
 
-### PREVIEW
-![preview](https://drive.google.com/file/d/18UYBX_GYvJSMW-roWq4FNgAVptvVPIzJ/view?usp=drive_link)
+
+
